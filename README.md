@@ -5,7 +5,6 @@
 As a student managing multiple semesters, manual GPA calculation become error-prone and time-comsuming. This project solves three core problems:
 1. **Accuracy**: Eliminate human error in GPA computation.
 2. **Flexibility**: Support diverse grading system (4.0/4.3 scales)
-3. **Portability**: Lightweight CLI tool for quick academic audits.
    
 ## Features
 - 📊**Dynamic Input Handling**
@@ -22,7 +21,15 @@ As a student managing multiple semesters, manual GPA calculation become error-pr
 ## Tech Stack
 - **Language**: Python
 - **Key concepts**:
-  - Dictionaries for grade-point mappping
-  - While loops for continuous input
-  - File I/O for data persistence
+  - Dictionaries (for grade-point mappping)
+  - While loops (for continuous input)
+  - File I/O (optional: save result to .txt)
 
+## Installation & Usage
+
+
+## Quick Start
+
+
+ 
+    
