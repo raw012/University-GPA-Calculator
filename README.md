@@ -19,6 +19,6 @@ As a student managing multiple semesters, manual GPA calculation become error-pr
   - Switch between 4.0 (standard) and 4.3 (weighted) GPA systems.
 - ✅**Data Validation**
   - Regex-based grade
-  - Credit range validation (0.0-4.3)
+  - Credit range validation (0.0-4.0 | 0.0-4.3)
 - 📤**Result Export**
   - Save transcript to '.txt' file.
