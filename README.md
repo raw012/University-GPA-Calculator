@@ -21,7 +21,7 @@ As a student managing multiple semesters, manual GPA calculation become error-pr
 
 ## Tech Stack
 - **Language**: Python
-- **Core Conponents**:
+- **Key concepts**:
   - Dictionaries for grade-point mappping
   - While loops for continuous input
   - File I/O for data persistence
