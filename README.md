@@ -1,16 +1,12 @@
 # University-GPA-Calculator
 *A command-line Python tool for automated GPA calculation with multi-scale support.*
 
----
-
 ## Motivation
 As a student managing multiple semesters, manual GPA calculation become error-prone and time-comsuming. This project solves three core problems:
 1. **Accuracy**: Eliminate human error in GPA computation.
 2. **Flexibility**: Support diverse grading system (4.0/4.3 scales)
 3. **Portability**: Lightweight CLI tool for quick academic audits.
-
----
-
+   
 ## Features
 - 📊**Dynamic Input Handling**
   - Add courses interactively with credits/letter grades.
@@ -23,14 +19,10 @@ As a student managing multiple semesters, manual GPA calculation become error-pr
 - 📤**Result Export**
   - Save transcript to '.txt' file.
 
----
-
 ## Tech Stack
-- **Language**: Python 3.10+
+- **Language**: Python
 - **Core Conponents**:
   - Dictionaries for grade-point mappping
   - While loops for continuous input
   - File I/O for data persistence
-- **Dependencies**:
-  - 'argparse' for CLI argument handling
-  - 're' for input validation
+
