@@ -19,6 +19,18 @@ As a student managing multiple semesters, manual GPA calculation become error-pr
   - Switch between 4.0 (standard) and 4.3 (weighted) GPA systems.
 - ✅**Data Validation**
   - Regex-based grade
-  - Credit range validation (0.0-4.0 | 0.0-4.3)
+  - Credit range validation (0.0-4.0 or 0.0-4.3)
 - 📤**Result Export**
   - Save transcript to '.txt' file.
+
+---
+
+## Tech Stack
+- **Language**: Python 3.10+
+- **Core Conponents**:
+  - Dictionaries for grade-point mappping
+  - While loops for continuous input
+  - File I/O for data persistence
+- **Dependencies**:
+  - 'argparse' for CLI argument handling
+  - 're' for input validation
